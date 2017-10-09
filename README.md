@@ -11,4 +11,7 @@ http://code.compartmental.net/tools/minim/
 Par manque de temps nous n'avons pu le commenter entièrement (en encore moins le traduire en anglais...) et ne pouvons continuer
 à le développer. Il subsiste quelques bugs et le jeu est facilement optimisable.
 
+Voici une vidéo faite à l'arrache de l'avancée en début d'été 2017:
+https://www.youtube.com/watch?v=P_oES21HKUo
+
 Bonne chance à ceux qui le continueront :)
