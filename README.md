@@ -5,9 +5,7 @@ Crée dans le cadre de l'isn au lycée nous avons utilisé le logiciel processin
 https://processing.org/download/
 
 Ainsi que des librairies (Minim et GifAnimation) jointes avec ce projet.
-
-https://github.com/01010101/GifAnimation
-
+https://github.com/01010101/GifAnimation/
 http://code.compartmental.net/tools/minim/
 
 Par manque de temps nous n'avons pu le commenter entièrement (en encore moins le traduire en anglais...) et ne pouvons continuer
